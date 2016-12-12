@@ -1,0 +1,17 @@
+[
+	{
+		"collision_with_injury": 3.2,
+		"dist_between_fail": 3924.0,
+		"customer_accident_rate": 2.12
+	},
+	{
+		"collision_with_injury": 2,
+		"dist_between_fail": 2400.0,
+		"customer_accident_rate": 1.12
+	},
+	{
+		"collision_with_injury": 2.6,
+		"dist_between_fail": 3150.0,
+		"customer_accident_rate": 1.12
+	}
+]
